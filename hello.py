@@ -1,2 +1,2 @@
 print("Hello, World!")
-print("첫 가상환경 만들기!")
+print("깃허브 수정~")
